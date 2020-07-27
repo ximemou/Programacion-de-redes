@@ -1,0 +1,91 @@
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\bin\Debug\Client.exe.config
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\bin\Debug\Client.exe
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\bin\Debug\Client.pdb
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\obj\Debug\Client.Main.resources
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\obj\Debug\Client.exe
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Client\obj\Debug\Client.pdb
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\bin\Debug\Client.exe.config
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\bin\Debug\Client.exe
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\bin\Debug\Client.pdb
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\bin\Debug\Protocol.dll
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\bin\Debug\Protocol.pdb
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.Main.resources
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.Properties.Resources.resources
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.exe
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.pdb
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\bin\Debug\Client.exe.config
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.exe
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.pdb
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.Main.resources
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\bin\Debug\Client.exe
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\bin\Debug\Client.pdb
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Client\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\bin\Debug\Client.exe.config
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\obj\Debug\Client.exe
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\obj\Debug\Client.pdb
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\bin\Debug\Client.exe
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\bin\Debug\Client.pdb
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\obj\Debug\Client.Main.resources
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\ENTREGA\Primer_Obligatorio_Redes\Client\bin\Debug\Client.exe.config
+C:\ENTREGA\Primer_Obligatorio_Redes\Client\obj\Debug\Client.exe
+C:\ENTREGA\Primer_Obligatorio_Redes\Client\obj\Debug\Client.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\bin\Debug\Client.exe.config
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\obj\Debug\Client.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\obj\Debug\Client.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\bin\Debug\Client.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\bin\Debug\Client.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\obj\Debug\Client.Main.resources
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+Z:\SEG redes\Client\bin\Debug\Client.exe.config
+Z:\SEG redes\Client\bin\Debug\Client.exe
+Z:\SEG redes\Client\bin\Debug\Client.pdb
+Z:\SEG redes\Client\bin\Debug\Protocol.dll
+Z:\SEG redes\Client\bin\Debug\Protocol.pdb
+Z:\SEG redes\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+Z:\SEG redes\Client\obj\Debug\Client.Main.resources
+Z:\SEG redes\Client\obj\Debug\Client.Properties.Resources.resources
+Z:\SEG redes\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+Z:\SEG redes\Client\obj\Debug\Client.exe
+Z:\SEG redes\Client\obj\Debug\Client.pdb
+\\Mac\Home\Obl redes 2\Client\bin\Debug\Client.exe.config
+\\Mac\Home\Obl redes 2\Client\obj\Debug\Client.exe
+\\Mac\Home\Obl redes 2\Client\obj\Debug\Client.pdb
+\\Mac\Home\Obl redes 2\Client\bin\Debug\Client.exe
+\\Mac\Home\Obl redes 2\Client\bin\Debug\Client.pdb
+\\Mac\Home\Obl redes 2\Client\bin\Debug\Protocol.dll
+\\Mac\Home\Obl redes 2\Client\bin\Debug\Protocol.pdb
+\\Mac\Home\Obl redes 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\Mac\Home\Obl redes 2\Client\obj\Debug\Client.Main.resources
+\\Mac\Home\Obl redes 2\Client\obj\Debug\Client.Properties.Resources.resources
+\\Mac\Home\Obl redes 2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+Z:\Obl redes 2\Client\bin\Debug\Client.exe.config
+Z:\Obl redes 2\Client\bin\Debug\Client.exe
+Z:\Obl redes 2\Client\bin\Debug\Client.pdb
+Z:\Obl redes 2\Client\bin\Debug\Protocol.dll
+Z:\Obl redes 2\Client\bin\Debug\Protocol.pdb
+Z:\Obl redes 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+Z:\Obl redes 2\Client\obj\Debug\Client.Main.resources
+Z:\Obl redes 2\Client\obj\Debug\Client.Properties.Resources.resources
+Z:\Obl redes 2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+Z:\Obl redes 2\Client\obj\Debug\Client.exe
+Z:\Obl redes 2\Client\obj\Debug\Client.pdb

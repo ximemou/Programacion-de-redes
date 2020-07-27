@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+  <file-repository>(Location del repositorio de archivos)</file-repository> 
+  <server-ip>(IP del Servidor a conectar)</server-ip>
+  <server-port>(Puerto donde ese servidor va a estar escuchando)</server-port>
+</conf>

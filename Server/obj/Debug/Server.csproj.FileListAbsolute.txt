@@ -1,0 +1,59 @@
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\bin\Debug\Server.exe.config
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\bin\Debug\Server.exe
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\bin\Debug\Server.pdb
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\obj\Debug\Server.exe
+C:\Users\Usuario\Desktop\Jeff\Obligatorio_Redes_1\Server\obj\Debug\Server.pdb
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\bin\Debug\Server.exe.config
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\bin\Debug\Server.exe
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\bin\Debug\Server.pdb
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\bin\Debug\Protocol.dll
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\bin\Debug\Protocol.pdb
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\obj\Debug\Server.exe
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\obj\Debug\Server.pdb
+\\Mac\Home\obligatorio_redes_1\Obligatorio_Redes_1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\bin\Debug\Server.exe.config
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\obj\Debug\Server.exe
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\obj\Debug\Server.pdb
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\bin\Debug\Server.exe
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\bin\Debug\Server.pdb
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\Obligatorio_Redes_1\Obligatorio_Redes_1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\bin\Debug\Server.exe.config
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\obj\Debug\Server.exe
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\obj\Debug\Server.pdb
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\bin\Debug\Server.exe
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\bin\Debug\Server.pdb
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\Primer_Obligatorio_Redes_Repo\Primer_Obligatorio_Redes\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\ENTREGA\Primer_Obligatorio_Redes\Server\bin\Debug\Server.exe.config
+C:\ENTREGA\Primer_Obligatorio_Redes\Server\obj\Debug\Server.exe
+C:\ENTREGA\Primer_Obligatorio_Redes\Server\obj\Debug\Server.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\bin\Debug\Server.exe.config
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\obj\Debug\Server.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\obj\Debug\Server.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\bin\Debug\Server.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\bin\Debug\Server.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+Z:\SEG redes\Server\bin\Debug\Server.exe.config
+Z:\SEG redes\Server\bin\Debug\Server.exe
+Z:\SEG redes\Server\bin\Debug\Server.pdb
+Z:\SEG redes\Server\bin\Debug\Protocol.dll
+Z:\SEG redes\Server\bin\Debug\Protocol.pdb
+Z:\SEG redes\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+Z:\SEG redes\Server\obj\Debug\Server.exe
+Z:\SEG redes\Server\obj\Debug\Server.pdb
+Z:\Obl redes 2\Server\bin\Debug\Server.exe.config
+Z:\Obl redes 2\Server\bin\Debug\Server.exe
+Z:\Obl redes 2\Server\bin\Debug\Server.pdb
+Z:\Obl redes 2\Server\bin\Debug\Protocol.dll
+Z:\Obl redes 2\Server\bin\Debug\Protocol.pdb
+Z:\Obl redes 2\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+Z:\Obl redes 2\Server\obj\Debug\Server.exe
+Z:\Obl redes 2\Server\obj\Debug\Server.pdb

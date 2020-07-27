@@ -1,0 +1,26 @@
+\\Mac\Home\Obl redes 2\ClienteInspeccion\bin\Debug\ClienteInspeccion.exe.config
+\\Mac\Home\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.csprojResolveAssemblyReference.cache
+\\Mac\Home\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.Form1.resources
+\\Mac\Home\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.Properties.Resources.resources
+\\Mac\Home\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.csproj.GenerateResource.Cache
+\\Mac\Home\Obl redes 2\ClienteInspeccion\bin\Debug\ClienteInspeccion.exe
+\\Mac\Home\Obl redes 2\ClienteInspeccion\bin\Debug\ClienteInspeccion.pdb
+\\Mac\Home\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.exe
+\\Mac\Home\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.pdb
+Z:\Obl redes 2\ClienteInspeccion\bin\Debug\ClienteInspeccion.exe.config
+Z:\Obl redes 2\ClienteInspeccion\bin\Debug\ClienteInspeccion.exe
+Z:\Obl redes 2\ClienteInspeccion\bin\Debug\ClienteInspeccion.pdb
+Z:\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.Form1.resources
+Z:\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.Properties.Resources.resources
+Z:\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.csproj.GenerateResource.Cache
+Z:\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.exe
+Z:\Obl redes 2\ClienteInspeccion\obj\Debug\ClienteInspeccion.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\bin\Debug\ClienteInspeccion.exe.config
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\bin\Debug\ClienteInspeccion.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\bin\Debug\ClienteInspeccion.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\obj\Debug\ClienteInspeccion.Form1.resources
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\obj\Debug\ClienteInspeccion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\obj\Debug\ClienteInspeccion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\obj\Debug\ClienteInspeccion.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\obj\Debug\ClienteInspeccion.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ClienteInspeccion\obj\Debug\ClienteInspeccion.csprojResolveAssemblyReference.cache

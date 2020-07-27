@@ -1,0 +1,22 @@
+Z:\Obl redes 2\ConciliationServer\bin\Debug\ConciliationServer.exe.config
+Z:\Obl redes 2\ConciliationServer\bin\Debug\ConciliationServer.exe
+Z:\Obl redes 2\ConciliationServer\bin\Debug\ConciliationServer.pdb
+Z:\Obl redes 2\ConciliationServer\bin\Debug\Protocol.dll
+Z:\Obl redes 2\ConciliationServer\bin\Debug\Protocol.pdb
+Z:\Obl redes 2\ConciliationServer\obj\Debug\ConciliationServer.csprojResolveAssemblyReference.cache
+Z:\Obl redes 2\ConciliationServer\obj\Debug\ConciliationServer.Form1.resources
+Z:\Obl redes 2\ConciliationServer\obj\Debug\ConciliationServer.Properties.Resources.resources
+Z:\Obl redes 2\ConciliationServer\obj\Debug\ConciliationServer.csproj.GenerateResource.Cache
+Z:\Obl redes 2\ConciliationServer\obj\Debug\ConciliationServer.exe
+Z:\Obl redes 2\ConciliationServer\obj\Debug\ConciliationServer.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\bin\Debug\ConciliationServer.exe.config
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\bin\Debug\ConciliationServer.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\bin\Debug\ConciliationServer.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\obj\Debug\ConciliationServer.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\obj\Debug\ConciliationServer.Form1.resources
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\obj\Debug\ConciliationServer.Properties.Resources.resources
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\obj\Debug\ConciliationServer.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\obj\Debug\ConciliationServer.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ConciliationServer\obj\Debug\ConciliationServer.pdb

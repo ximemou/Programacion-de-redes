@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe.config
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\obj\Debug\ActivityRegisterService.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\obj\Debug\ActivityRegisterService.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\obj\Debug\ActivityRegisterService.csprojResolveAssemblyReference.cache

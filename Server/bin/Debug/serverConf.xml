@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+<file-repository>C:\Redes\Server</file-repository>
+  <max-connections>10</max-connections>
+  <tcp-port-client>1953</tcp-port-client>
+  <tcp-port-server>1954</tcp-port-server>
+  <tcp-server-ip>192.168.1.103</tcp-server-ip>
+  <tcp-server-port>1957</tcp-server-port>
+  <tcp-server-ip>192.168.1.103</tcp-server-ip>
+  <tcp-server-port>1952</tcp-server-port>
+	<remoting-server-ip>192.168.1.103</remoting-server-ip>
+	<remoting-server-port>8000</remoting-server-port>
+</conf>

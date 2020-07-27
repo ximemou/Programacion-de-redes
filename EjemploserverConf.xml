@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+  <file-repository>(Repositorio archivos servidor)</file-repository>
+  <max-connections>(numero maximo de clientes a escuchar)</max-connections>
+  <tcp-port-client>(puerto para atender clientes)</tcp-port-client>
+  <tcp-server-ip>(ip de servidor al que me voy a sicronizar 1)</tcp-server-ip>
+  <tcp-server-port>(puerto del servidor al cual me voy a sicronizar 1)</tcp-server-port>
+  <tcp-server-ip>(ip de servidor al que me voy a sicronizar 2)</tcp-server-ip>
+  <tcp-server-port>(puerto del servidor al cual me voy a sicronizar 2)</tcp-server-port>
+ 
+      ...etc
+  <tcp-server-ip>...etc</tcp-server-ip>
+  <tcp-server-port>...etc</tcp-server-port>
+
+</conf>

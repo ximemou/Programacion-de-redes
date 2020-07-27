@@ -1,0 +1,23 @@
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe.config
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\Protocol.dll
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\bin\Debug\Protocol.pdb
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\obj\Debug\ActivityRegisterServer.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\obj\Debug\ActivityRegisterService.exe
+C:\Users\Usuario\Desktop\REDES\Segundo_Obligatorio_Redes\ActivityRegisterService\obj\Debug\ActivityRegisterService.pdb
+Z:\SEG redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe.config
+Z:\SEG redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe
+Z:\SEG redes\ActivityRegisterService\bin\Debug\ActivityRegisterService.pdb
+Z:\SEG redes\ActivityRegisterService\bin\Debug\Protocol.dll
+Z:\SEG redes\ActivityRegisterService\bin\Debug\Protocol.pdb
+Z:\SEG redes\ActivityRegisterService\obj\Debug\ActivityRegisterService.exe
+Z:\SEG redes\ActivityRegisterService\obj\Debug\ActivityRegisterService.pdb
+Z:\Obl redes 2\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe.config
+Z:\Obl redes 2\ActivityRegisterService\bin\Debug\ActivityRegisterService.exe
+Z:\Obl redes 2\ActivityRegisterService\bin\Debug\ActivityRegisterService.pdb
+Z:\Obl redes 2\ActivityRegisterService\bin\Debug\Protocol.dll
+Z:\Obl redes 2\ActivityRegisterService\bin\Debug\Protocol.pdb
+Z:\Obl redes 2\ActivityRegisterService\obj\Debug\ActivityRegisterServer.csprojResolveAssemblyReference.cache
+Z:\Obl redes 2\ActivityRegisterService\obj\Debug\ActivityRegisterService.exe
+Z:\Obl redes 2\ActivityRegisterService\obj\Debug\ActivityRegisterService.pdb

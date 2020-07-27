@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conf>	
+	<remoting-server-port>7000</remoting-server-port>
+</conf>
